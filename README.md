@@ -1,2 +1,21 @@
-# 💫 About Me:
-<div align="center">👑 AMAN CHOUDHARY<br><br>🤖 AI Developer | Android Developer | Automation Enthusiast<br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Building+My+Own+JARVIS+AI;AI+%7C+Android+%7C+Automation;Turning+Ideas+Into+Reality;Welcome+To+My+Digital+World" alt="Typing SVG" /><br/>""GitHub" (https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github)" (https://github.com/aman9753pawar-png)<br>""Projects" (https://img.shields.io/badge/Focus-JARVIS%20AI-00ff99?style=for-the-badge&logo=probot&logoColor=black)" (https://github.com/aman9753pawar-png)<br><br></div>---<br><br>👨‍💻 About Me<br><br>class Aman:<br>    name = "Aman Choudhary"<br>    role = "Aspiring AI & Software Developer"<br>    current_project = "JARVIS AI Assistant"<br>    interests = [<br>        "Artificial Intelligence",<br>        "Android Development",<br>        "Voi
+👑 AMAN CHOUDHARY
+
+🤖 AI Developer | Android Developer | Automation Enthusiast
+
+Building my own JARVIS-style AI assistant.
+
+⚡ Skills
+
+- Python
+- Java
+- JavaScript
+- Android Development
+- Termux & Automation
+
+🚀 Featured Project
+
+JARVIS AI Assistant — Personal AI assistant project in development.
+
+🌐 Connect with Me
+
+"GitHub Profile" (https://github.com/aman9753pawar-png)
