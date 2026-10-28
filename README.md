@@ -1,21 +1,20 @@
-👑 AMAN CHOUDHARY
+🤖 "project_01" — FRIDAY AI Assistant
 
-🤖 AI Developer | Android Developer | Automation Enthusiast
+<div align="center">🔥 PERSONAL AI • VOICE • AUTOMATION
 
-Building my own JARVIS-style AI assistant.
+Meet FRIDAY — My Personal AI Assistant Project
 
-⚡ Skills
+</div>My goal is to develop a personal AI assistant inspired by futuristic voice-controlled systems.
 
-- Python
-- Java
-- JavaScript
-- Android Development
-- Termux & Automation
+Planned and explored features:
 
-🚀 Featured Project
+- 🎙️ Voice-based interaction
+- 🧠 AI-powered conversations
+- 📱 Android-focused experience
+- ⚙️ Smartphone automation
+- 🔊 Spoken responses
+- 🔐 Privacy-conscious design
 
-JARVIS AI Assistant — Personal AI assistant project in development.
+Status: 🚧 In Development
 
-🌐 Connect with Me
-
-"GitHub Profile" (https://github.com/aman9753pawar-png)
+""Explore My Repositories" (https://img.shields.io/badge/EXPLORE-FRIDAY_AI-00FF99?style=for-the-badge&logo=github&logoColor=black)" (https://github.com/aman9753pawar-png?tab=repositories)
